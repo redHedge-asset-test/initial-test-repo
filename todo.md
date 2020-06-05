@@ -26,7 +26,8 @@
 ## get github working
 github is an excellent resource for programmingang, building and sharing
 it is open source. However, many large hedge funds and companies use it privately (paid mode)
-take a look: *excellent resource*
+
+take a look: **excellent resource**
 
 1. test all of this out
 2. plan for a team
