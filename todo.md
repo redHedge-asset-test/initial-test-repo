@@ -3,24 +3,33 @@
 # things to do
 
 
-1. focus on reegression
+1. focus on reegression model for hybrid
 2. get github working
 3. get python working
 4. get old spreadsheets to desk
-
-
+5. my questions
+6. SEM
 
 ## regression
+fully take this over in the next week or so.  **important** for all.
 
 1. This is important for current methods.
 2. initial check show that data not updating - need to look into this
 3. existing spreadsheet is verbose for data:
     daily lists for 2 years > 500 lines per item)
     this is suboptimal => each needs to be 1 cell per list.
+    https://exceljet.net/glossary/array-formula is an example ={formula}
+    Dynamic array formulas in Excel
 4. matrix to bve produced.
     question.  how useful will this be ?
 5. Automation:
     key gain is that desk membersd should not have to maintain the data (in any way whatsoever)
+
+>> other idea:  spread v rating (1. issuer / 2. bond)
+    i have spreadsheets on this.
+
+>> other ideal:  spread v metrics (i calculate leverage metrics which lead ratings)
+
 
 
 
@@ -35,7 +44,8 @@ take a look: **excellent resource**
 
 
 ### get python working
-currently working on this
+currently working on this: **essential**
+https://automatetheboringstuff.com/
 
 have looked into languages for the purpose of development outsidfe of excel
 there are 4 suitable languages.
@@ -73,8 +83,33 @@ note:
     we dont know if we want this to be the case.
     
 
+## my questions
+some question that i have whilst creating this
+
+1. did you maintain spreadsheets this morning?
+    if so.  which ones ?
+    voon showed me 2 *key* spreadsheets at the outset, are there others ?
 
 
+
+
+## SEM
+this is being replaced with paladyne
+will look into this - become proficient
+can we link into this, talk to it etc ?
+
+
+
+
+
+
+
+### change imposed by the system
+
+paladyme. 
+    cost
+    bloomberg aim
+    
 
 
 
